@@ -2,19 +2,19 @@
 ## This is head2
 ### This is head3
 
-#unorder list
+# unorder list
 * one
     * sub
 * two
 * three
 
-#order list
+# order list
 
 1.one
 
 2.two
 
-#Display data as bold
+# Display data as bold
 
 **ALIET**
 
@@ -31,6 +31,6 @@
 
 # Display image
 
-![alt VIJAY DEVARAKONDA](vd)
+![alt VIJAY DEVARAKONDA](vd.jpg)
 
 # completed
