@@ -31,6 +31,6 @@
 
 # Display image
 
-![alt VIJAY DEVARAKONDA](vd.jpg)
+![alt VIJAY DEVARAKONDA](vd.jpeg)
 
 # completed
