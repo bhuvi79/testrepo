@@ -27,12 +27,10 @@
       import pandas
       df=pd.DataFrame({"one":[1,2,3]})
       df.head()
-      
-# bhuvi
-## raji
-### priya
-# pavan
-## sree
 
+
+# Display image
+
+![alt VIJAY DEVARAKONDA](vd)
 
 # completed
